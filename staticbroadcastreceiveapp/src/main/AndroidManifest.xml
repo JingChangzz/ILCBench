@@ -10,7 +10,7 @@
         android:label="staticBReciver"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.collector.zhangjing.staticbroadcastreceiveapp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

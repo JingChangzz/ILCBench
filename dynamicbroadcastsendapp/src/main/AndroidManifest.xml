@@ -11,7 +11,7 @@
         android:label="DynamicBSenderApp"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.collector.zhangjing.dynamicbroadcastsendapp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

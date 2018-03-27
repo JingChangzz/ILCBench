@@ -9,7 +9,7 @@
                  android:supportsRtl="true"
     >
         <receiver
-                android:name="com.example.staticbroadcastreceivejar.StaticBroadcastReceiver"
+                android:name="com.collector.staticbroadcastreceivejar.StaticBroadcastReceiver"
                 android:enabled="true"
                 android:exported="true">
             <intent-filter>

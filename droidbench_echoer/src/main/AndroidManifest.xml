@@ -1,28 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.zhangjing.droidbench_echoer">
+    package="org.cert.echoer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
 
     <application
         android:allowBackup="true"
-        android:label="@string/app_name"
-        android:supportsRtl="true">
+        android:label="@string/app_name">
 
         <activity
-            android:name="com.example.zhangjing.droidbench_echoer.MainActivity"
+            android:name="org.cert.echoer.MainActivity"
             android:label="@string/app_name" >
-            <intent-filter>
+			<intent-filter>
                 <action android:name="android.intent.action.SEND" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <data android:mimeType="text/plain" />
-            </intent-filter>
+            </intent-filter>         
         </activity>
-        <activity-alias android:name="MainActivity_Alias" android:label="MainActivity_VIEW" android:targetActivity="com.example.zhangjing.droidbench_echoer.MainActivity">
-            <intent-filter>
+  
+ 
+ <!-- The Alias Activity is used simply to have a different label. -->
+        <activity-alias android:name="MainActivity_Alias" android:label="MainActivity_VIEW" android:targetActivity="org.cert.echoer.MainActivity">
+			<intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <data android:scheme="http" />
-            </intent-filter>
-        </activity-alias>
-
-    </application>
+                </intent-filter>
+		</activity-alias>        
+        
+</application>
 
 </manifest>

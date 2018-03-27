@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ILCTestData-master-new.iml" filepath="$PROJECT_DIR$/ILCTestData-master-new.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_collector/droidbench_collector.iml" filepath="$PROJECT_DIR$/droidbench_collector/droidbench_collector.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_deviceid_broadcast1/droidbench_deviceid_broadcast1.iml" filepath="$PROJECT_DIR$/droidbench_deviceid_broadcast1/droidbench_deviceid_broadcast1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_deviceid_orderedintent1/droidbench_deviceid_orderedintent1.iml" filepath="$PROJECT_DIR$/droidbench_deviceid_orderedintent1/droidbench_deviceid_orderedintent1.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" filepath="$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" filepath="$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" filepath="$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" />
