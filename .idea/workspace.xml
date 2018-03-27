@@ -10,52 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad608202-f032-43bd-8c7b-8b2a674f1cfa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/androidTest/java/com/example/deviceid_contentprovider1/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/test/java/com/example/deviceid_contentprovider1/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/main/java/com/example/deviceid_contentprovider1/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/main/java/com/example/deviceid_contentprovider1/contentProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/droidbench_deviceid_contentprovider1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_deviceid_contentprovider1/src/main/res/values/strings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dynamicbroadcastreceiveapp/src/main/java/com/example/zhangjing/dynamicbroadcastreceiveapp/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dynamicbroadcastreceivejar/src/main/java/com/collector/zhangjing/dynamicbroadcastreceivejar/DynamicBroadcast.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dynamicbroadcastreceivejar/src/main/java/com/collector/zhangjing/dynamicbroadcastreceivejar/Receiver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dynamicbroadcastsendapp/src/main/java/com/collector/zhangjing/dynamicbroadcastsendapp/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dynamicbroadcastsendjar/src/main/java/com/collector/zhangjing/dynamicbroadcastsendjar/AboutDevice.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dynamicbroadcastsendjar/src/main/java/com/collector/zhangjing/dynamicbroadcastsendjar/Sender02.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/staticbroadcastreceiveapp/src/main/java/com/collector/zhangjing/staticbroadcastreceiveapp/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/staticbroadcastreceivejar/src/main/java/com/collector/staticbroadcastreceivejar/Const.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/staticbroadcastreceivejar/src/main/java/com/collector/staticbroadcastreceivejar/StaticBroadcastReceiver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/staticbroadcastsendapp/src/main/java/com/collector/staticbroadcastsendapp/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/staticbroadcastsendjar/src/main/java/com/collector/staticbroadcastsendjar/AboutDevice.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/staticbroadcastsendjar/src/main/java/com/collector/staticbroadcastsendjar/Sender01.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamicbroadcastsendapp/build.gradle" afterPath="$PROJECT_DIR$/dynamicbroadcastsendapp/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticbroadcastreceiveapp/build.gradle" afterPath="$PROJECT_DIR$/staticbroadcastreceiveapp/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticbroadcastsendapp/build.gradle" afterPath="$PROJECT_DIR$/staticbroadcastsendapp/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" afterPath="$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" afterPath="$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" afterPath="$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" afterPath="$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamicbroadcastsendjar/dynamicbroadcastsendjar.iml" afterPath="$PROJECT_DIR$/dynamicbroadcastsendjar/dynamicbroadcastsendjar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticbroadcastreceiveapp/staticbroadcastreceiveapp.iml" afterPath="$PROJECT_DIR$/staticbroadcastreceiveapp/staticbroadcastreceiveapp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticbroadcastreceivejar/staticbroadcastreceivejar.iml" afterPath="$PROJECT_DIR$/staticbroadcastreceivejar/staticbroadcastreceivejar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticbroadcastsendapp/staticbroadcastsendapp.iml" afterPath="$PROJECT_DIR$/staticbroadcastsendapp/staticbroadcastsendapp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticbroadcastsendjar/staticbroadcastsendjar.iml" afterPath="$PROJECT_DIR$/staticbroadcastsendjar/staticbroadcastsendjar.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ILCTestData-master-new.iws" />
@@ -13017,7 +12976,13 @@
       <option name="project" value="LOCAL" />
       <updated>1522138096325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="我也不知道出了什么鬼问题">
+      <created>1522139579307</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139579307</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -13109,7 +13074,8 @@
     <MESSAGE value="droidbench_collector" />
     <MESSAGE value="droidbench_DeviceId_Broadcast1" />
     <MESSAGE value="保持一致" />
-    <option name="LAST_COMMIT_MESSAGE" value="保持一致" />
+    <MESSAGE value="我也不知道出了什么鬼问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="我也不知道出了什么鬼问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -13433,14 +13399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicbroadcastsendjar/src/main/java/com/example/zhangjing/dynamicbroadcastsendjar/AboutDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dynamicbroadcastsendjar/src/main/java/com/example/zhangjing/dynamicbroadcastsendjar/Sender02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -13501,6 +13459,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36666667">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamicbroadcastsendjar/src/main/java/com/example/zhangjing/dynamicbroadcastsendjar/AboutDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
