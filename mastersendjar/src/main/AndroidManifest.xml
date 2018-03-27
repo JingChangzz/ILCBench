@@ -1,0 +1,33 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jzhang.testmasterjar">
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <receiver
+            android:name="com.jzhang.testmasterjar.StaticBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.jzhang.testmasterjar.staticbroadcast" />
+            </intent-filter>
+        </receiver>
+        <service
+            android:name=".service.ServiceTypeStart"
+            android:enabled="true"
+            android:exported="true"
+            >
+        </service>
+        <service
+            android:name=".service.ServiceTypeBind"
+            android:enabled="true"
+            android:exported="true">
+        </service>
+        <provider
+            android:authorities="com.example.deviceprovider"
+            android:name=".contentprovider.DeviceContentProvider"/>
+    </application>
+
+</manifest>

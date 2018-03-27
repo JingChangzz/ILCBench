@@ -1,0 +1,5 @@
+//include ':devicetest', ':devicejar', ':recdevicejar', ':recdevicetest', ':messagerclient', ':messagerserver', ':masterreceivejar', ':mastersendtest', ':staticbroadcastsendjar', ':staticbroadcastreceivejar', ':staticbroadcastsendapp',
+//        ':receivebroadcastjar', ':mastersendjar'
+
+include ':staticbroadcastsendjar', ':staticbroadcastreceivejar', ':staticbroadcastsendapp', ':staticbroadcastreceiveapp', ':dynamicbroadcastsendjar', ':dynamicbroadcastreceivejar', ':dynamicbroadcastreceiveapp', ':dynamicbroadcastsendapp', ':droidbench_echoer', ':droidbench_startactivityforresult1', ':droidbench_sendsms',
+        ':mastersendtest'

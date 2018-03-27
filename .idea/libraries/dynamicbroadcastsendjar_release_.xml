@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dynamicbroadcastsendjar-release-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dynamicbroadcastsendapp/build/intermediates/exploded-aar/dynamicbroadcastsendjar-release/res" />
+      <root url="jar://$PROJECT_DIR$/dynamicbroadcastsendapp/build/intermediates/exploded-aar/dynamicbroadcastsendjar-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

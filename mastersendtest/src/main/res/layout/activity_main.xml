@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/send_broadcast_dynamic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="发送动态广播">
+            </Button>
+            <Button
+                android:id="@+id/send_broadcast_static"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="发送静态广播">
+            </Button>
+            <Button
+                android:id="@+id/btn_startService"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="startService">
+            </Button>
+            <Button
+                android:id="@+id/btn_bindService"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="bindService">
+            </Button>
+            <Button
+                android:id="@+id/btn_contentProvider"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="contentProvider">
+            </Button>
+            <Button
+                android:id="@+id/btn_socket"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="发送socket">
+            </Button>
+            <Button
+                android:id="@+id/btn_startActivityOne"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="启动activity一">
+            </Button>
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

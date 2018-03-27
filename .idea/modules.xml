@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ILCTestData-master-new.iml" filepath="$PROJECT_DIR$/ILCTestData-master-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" filepath="$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" filepath="$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" filepath="$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" filepath="$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" filepath="$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastsendapp/dynamicbroadcastsendapp.iml" filepath="$PROJECT_DIR$/dynamicbroadcastsendapp/dynamicbroadcastsendapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastsendjar/dynamicbroadcastsendjar.iml" filepath="$PROJECT_DIR$/dynamicbroadcastsendjar/dynamicbroadcastsendjar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mastersendtest/mastersendtest.iml" filepath="$PROJECT_DIR$/mastersendtest/mastersendtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticbroadcastreceiveapp/staticbroadcastreceiveapp.iml" filepath="$PROJECT_DIR$/staticbroadcastreceiveapp/staticbroadcastreceiveapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticbroadcastreceivejar/staticbroadcastreceivejar.iml" filepath="$PROJECT_DIR$/staticbroadcastreceivejar/staticbroadcastreceivejar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticbroadcastsendapp/staticbroadcastsendapp.iml" filepath="$PROJECT_DIR$/staticbroadcastsendapp/staticbroadcastsendapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticbroadcastsendjar/staticbroadcastsendjar.iml" filepath="$PROJECT_DIR$/staticbroadcastsendjar/staticbroadcastsendjar.iml" />
+    </modules>
+  </component>
+</project>

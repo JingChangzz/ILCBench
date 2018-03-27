@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="staticbroadcastreceivejar-release-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/staticbroadcastreceiveapp/build/intermediates/exploded-aar/staticbroadcastreceivejar-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/staticbroadcastreceiveapp/build/intermediates/exploded-aar/staticbroadcastreceivejar-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

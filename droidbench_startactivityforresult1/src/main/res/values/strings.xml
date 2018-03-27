@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DroidBench_StartActivityForResult1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Component: WriteFile.MainActivity</string>
+</resources>
