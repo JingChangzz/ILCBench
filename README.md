@@ -23,4 +23,14 @@ recdevicetest：使用recdevicejar的app
 messagerclient：使用Messager进行通信，客户端
 messagerserver：使用Messager进行通信，服务端
 
+------------------------------------------------------------------------------
+#DroidBench 数据集
+改自DroidBench 修改成库的形式
+① https://github.com/secure-software-engineering/DroidBench/tree/master/eclipse-project/InterAppCommunication
+-- Echoer                            ->    droidbench_echoer
+-- SendSMS                           ->    droidbench_sendsms
+-- StartActivityForResult1           ->    droidbench_startactivityforresult1
+</br>
+</br>
+</br>
 
