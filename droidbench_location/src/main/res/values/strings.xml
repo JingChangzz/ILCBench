@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DroidBench_location</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitude">Latitude</string>
+    <string name="unk">unknown</string>
+    <string name="longi">Longitude</string>
+    <string name="get">Get_Location</string>
+</resources>
