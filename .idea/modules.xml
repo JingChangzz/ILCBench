@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/droidbench_deviceid_orderedintent1/droidbench_deviceid_orderedintent1.iml" filepath="$PROJECT_DIR$/droidbench_deviceid_orderedintent1/droidbench_deviceid_orderedintent1.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_deviceid_service/droidbench_deviceid_service.iml" filepath="$PROJECT_DIR$/droidbench_deviceid_service/droidbench_deviceid_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" filepath="$PROJECT_DIR$/droidbench_echoer/droidbench_echoer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_location_broadcast/droidbench_location_broadcast.iml" filepath="$PROJECT_DIR$/droidbench_location_broadcast/droidbench_location_broadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" filepath="$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" filepath="$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" filepath="$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" />
