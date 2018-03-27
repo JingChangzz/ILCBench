@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/droidbench_collector" />
             <option value="$PROJECT_DIR$/droidbench_echoer" />
             <option value="$PROJECT_DIR$/droidbench_sendsms" />
             <option value="$PROJECT_DIR$/droidbench_startactivityforresult1" />
