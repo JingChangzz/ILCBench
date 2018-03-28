@@ -12,7 +12,10 @@
       <module fileurl="file://$PROJECT_DIR$/droidbench_location/droidbench_location.iml" filepath="$PROJECT_DIR$/droidbench_location/droidbench_location.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_location_broadcast/droidbench_location_broadcast.iml" filepath="$PROJECT_DIR$/droidbench_location_broadcast/droidbench_location_broadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_location_service/droidbench_location_service.iml" filepath="$PROJECT_DIR$/droidbench_location_service/droidbench_location_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_sendbroadcast1_sink/droidbench_sendbroadcast1_sink.iml" filepath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/droidbench_sendbroadcast1_sink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_sendbroadcast1_source/droidbench_sendbroadcast1_source.iml" filepath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/droidbench_sendbroadcast1_source.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" filepath="$PROJECT_DIR$/droidbench_sendsms/droidbench_sendsms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_startactivity1_source/droidbench_startactivity1_source.iml" filepath="$PROJECT_DIR$/droidbench_startactivity1_source/droidbench_startactivity1_source.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" filepath="$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" filepath="$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" filepath="$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" />
