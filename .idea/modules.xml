@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/droidbench_startactivity1_sink/droidbench_startactivity1_sink.iml" filepath="$PROJECT_DIR$/droidbench_startactivity1_sink/droidbench_startactivity1_sink.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_startactivity1_source/droidbench_startactivity1_source.iml" filepath="$PROJECT_DIR$/droidbench_startactivity1_source/droidbench_startactivity1_source.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" filepath="$PROJECT_DIR$/droidbench_startactivityforresult1/droidbench_startactivityforresult1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidbench_startservice1_sink/droidbench_startservice1_sink.iml" filepath="$PROJECT_DIR$/droidbench_startservice1_sink/droidbench_startservice1_sink.iml" />
       <module fileurl="file://$PROJECT_DIR$/droidbench_startservice1_source/droidbench_startservice1_source.iml" filepath="$PROJECT_DIR$/droidbench_startservice1_source/droidbench_startservice1_source.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" filepath="$PROJECT_DIR$/dynamicbroadcastreceiveapp/dynamicbroadcastreceiveapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" filepath="$PROJECT_DIR$/dynamicbroadcastreceivejar/dynamicbroadcastreceivejar.iml" />
