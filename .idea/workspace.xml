@@ -10,47 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad608202-f032-43bd-8c7b-8b2a674f1cfa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/androidTest/java/com/example/zhangjing/droidbench_sendbroadcast1_sink/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/androidTest/java/com/example/sendbroadcast1_source/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/androidTest/java/com/example/zhangjing/droidbench_startactivity1_source/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/test/java/com/example/zhangjing/droidbench_sendbroadcast1_sink/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/test/java/com/example/sendbroadcast1_source/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/test/java/com/example/zhangjing/droidbench_startactivity1_source/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/java/lu/uni/serval/iac_sendbroadcast1_sink/InFlowReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/java/lu/uni/serval/iac_sendbroadcast1_sink/IsolateReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/java/lu/uni/serval/iac_sendbroadcast1_sink/LaunchingActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/java/lu/uni/serval/iac_sendbroadcast1_source/OutFlowActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/droidbench_sendbroadcast1_sink.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/droidbench_sendbroadcast1_source.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/droidbench_startactivity1_source.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/java/lu/uni/serval/iac_startactivity1_source/OutFlowActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values/dimens.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/droidbench_startactivity1_source/build.gradle" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/droidbench_startactivity1_source/droidbench_startactivity1_source.iml" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/droidbench_startactivity1_source.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticbroadcastreceivejar/staticbroadcastreceivejar.iml" afterPath="$PROJECT_DIR$/staticbroadcastreceivejar/staticbroadcastreceivejar.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ILCTestData-master-new.iws" />
@@ -330,6 +303,9 @@
         <task path="$PROJECT_DIR$/droidbench_sendbroadcast1_sink">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/droidbench_startactivity1_source">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <PATH>
@@ -352,7 +328,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value=":droidbench_sendbroadcast1_sink" />
+                <option name="myItemId" value=":droidbench_startactivity1_source" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
               </PATH_ELEMENT>
             </PATH>
@@ -366,7 +342,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value=":droidbench_sendbroadcast1_sink" />
+                <option name="myItemId" value=":droidbench_startactivity1_source" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
@@ -384,7 +360,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value=":droidbench_sendbroadcast1_sink" />
+                <option name="myItemId" value=":droidbench_startactivity1_source" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
@@ -405,7 +381,28 @@
     <favorites_list name="ILCTestData-master-new" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbench_startactivity1_source/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutFlowActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/droidbench_startactivity1_source/src/main/java/lu/uni/serval/iac_startactivity1_source/OutFlowActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63559324">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -8406,16 +8403,6 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Extracts Android annotations for the debug variant into the archive file" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
-                <option name="name" value="extractDebugAnnotations" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Extracts Android annotations for the release variant into the archive file" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
-                <option name="name" value="extractReleaseAnnotations" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
                 <option name="name" value="generateDebugAndroidTestAssets" />
               </ExternalTaskPojo>
@@ -8599,24 +8586,9 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:animated-vector-drawable:23.4.0" />
+                <option name="description" value="Prepare com.android.support:appcompat-v7:19.1.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
-                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
-                <option name="name" value="prepareComAndroidSupportSupportV42340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-vector-drawable:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
-                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2340Library" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV71910Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
@@ -14575,7 +14547,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="38052337648000" />
+        <entry key="$PROJECT_DIR$" value="38052338940000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -16090,11 +16062,8 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-                            <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.4.0/appcompat-v7-23.4.0.aar" />
-                            <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/23.4.0/animated-vector-drawable-23.4.0.aar" />
-                            <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0.aar" />
-                            <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-vector-drawable/23.4.0/support-vector-drawable-23.4.0.aar" />
-                            <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar" />
+                            <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/19.1.0/appcompat-v7-19.1.0.aar" />
+                            <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
@@ -17323,10 +17292,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/droidbench_deviceid_broadcast1/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/droidbench_deviceid_orderedintent1/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/droidbench_deviceid_orderedintent1/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/droidbench_echoer/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/droidbench_sendsms/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/droidbench_startactivityforresult1/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/dynamicbroadcastreceiveapp/src/main/java/com/collector/zhangjing/dynamicbroadcastreceiveapp/MainActivity.java" />
@@ -17368,12 +17333,16 @@
         <option value="$PROJECT_DIR$/droidbench_location/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/droidbench_deviceid_service/build.gradle" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_source/build.gradle" />
         <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/build.gradle" />
         <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_source/build.gradle" />
+        <option value="$PROJECT_DIR$/droidbench_startactivity1_source/build.gradle" />
+        <option value="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/droidbench_startactivity1_source/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -17434,6 +17403,146 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="droidbench_startactivity1_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="droidbench_startactivity1_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="droidbench_startactivity1_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="droidbench_startactivity1_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="droidbench_startactivity1_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ILCTestData-master-new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="droidbench_startactivity1_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iac_startactivity1_source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -17459,32 +17568,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/droidbench_startactivity1_source/src/main" />
+      <recent name="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res" />
+      <recent name="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/java" />
       <recent name="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main" />
       <recent name="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/res" />
-      <recent name="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/java" />
-      <recent name="$PROJECT_DIR$/droidbench_sendbroadcast1_sink/src/main/res/values" />
-      <recent name="$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/res/values" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_sink [build]">
-    <configuration default="false" name="ILCTestData-master-new:droidbench_location_broadcast [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/droidbench_location_broadcast" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Gradle.ILCTestData-master-new:droidbench_startactivity1_source [build]">
     <configuration default="false" name="ILCTestData-master-new:droidbench_location_service [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -17543,6 +17637,24 @@
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/droidbench_sendbroadcast1_sink" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="ILCTestData-master-new:droidbench_startactivity1_source [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/droidbench_startactivity1_source" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -17814,19 +17926,19 @@
       <item index="2" class="java.lang.String" itemvalue="Android Application.mastersendtest" />
       <item index="3" class="java.lang.String" itemvalue="Android Application.staticbroadcastreceiveapp" />
       <item index="4" class="java.lang.String" itemvalue="Android Application.staticbroadcastsendapp" />
-      <item index="5" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location_broadcast [build]" />
-      <item index="6" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location_service [build]" />
-      <item index="7" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location [build]" />
-      <item index="8" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_source [build]" />
-      <item index="9" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_sink [build]" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location_service [build]" />
+      <item index="6" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location [build]" />
+      <item index="7" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_source [build]" />
+      <item index="8" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_sink [build]" />
+      <item index="9" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_startactivity1_source [build]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_sink [build]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_source [build]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location [build]" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location_service [build]" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location_broadcast [build]" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_startactivity1_source [build]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_sink [build]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_sendbroadcast1_source [build]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location [build]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.ILCTestData-master-new:droidbench_location_service [build]" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -17943,7 +18055,13 @@
       <option name="project" value="LOCAL" />
       <updated>1522145394744</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Droidbench  iccta 3">
+      <created>1522202698916</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1522202698916</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -18050,7 +18168,8 @@
     <MESSAGE value="DroidBench_location_service" />
     <MESSAGE value="DroidBench_location" />
     <MESSAGE value="log" />
-    <option name="LAST_COMMIT_MESSAGE" value="log" />
+    <MESSAGE value="Droidbench  iccta 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Droidbench  iccta 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -18059,41 +18178,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dynamicbroadcastsendapp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.529148">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticbroadcastreceiveapp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80717486">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticbroadcastsendapp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4618834">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticbroadcastsendjar/src/main/java/com/example/staticbroadcastsendjar/AboutDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticbroadcastsendjar/src/main/java/com/example/staticbroadcastsendjar/Sender01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06666667">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/staticbroadcastreceiveapp/src/main/java/com/example/zhangjing/staticbroadcastreceiveapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13333334">
@@ -18346,14 +18430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/droidbench_sendbroadcast1_source/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94382024">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/droidbench_sendbroadcast1_source/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.505618">
@@ -18445,6 +18521,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52469134">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbench_sendbroadcast1_source/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.444445">
+          <caret line="17" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1076555">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbench_startactivity1_source/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbench_startactivity1_source/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbench_startactivity1_source/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40123457">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbench_startactivity1_source/src/main/java/lu/uni/serval/iac_startactivity1_source/OutFlowActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63559324">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
