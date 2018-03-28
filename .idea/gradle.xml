@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_sink" />
             <option value="$PROJECT_DIR$/droidbench_sendbroadcast1_source" />
             <option value="$PROJECT_DIR$/droidbench_sendsms" />
+            <option value="$PROJECT_DIR$/droidbench_startactivity1_sink" />
             <option value="$PROJECT_DIR$/droidbench_startactivity1_source" />
             <option value="$PROJECT_DIR$/droidbench_startactivityforresult1" />
             <option value="$PROJECT_DIR$/dynamicbroadcastreceiveapp" />
